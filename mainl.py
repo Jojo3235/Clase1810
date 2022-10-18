@@ -76,6 +76,7 @@ def ejercicio1():
     lista.append("n")
     print(lista)
 
+
 def ejercicio2():
     lista = [1, 4, 2, 5, 4, 3, 4, 7, 5, 8, 9]
     lista.remove(7)
